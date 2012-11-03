@@ -1,0 +1,13 @@
+{
+  "name": "merge",
+  "repo": "yields/merge",
+  "description": "merge two objects",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT",
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
