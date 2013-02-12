@@ -3,7 +3,7 @@
   "repo": "yields/merge",
   "description": "merge two objects",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["merge", "inherit", "extend"],
   "dependencies": {},
   "license": "MIT",
   "development": {},
