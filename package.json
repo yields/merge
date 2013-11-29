@@ -1,0 +1,7 @@
+{
+  "name": "merge",
+  "version": "1.0.1",
+  "description": "merge objects",
+  "dependencies": {},
+  "files": ["index.js"]
+}
